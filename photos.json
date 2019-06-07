@@ -1,0 +1,76 @@
+{
+    "photos": [
+        {
+            "id": 1,
+            "title": "Random Photo Avx1",
+            "url": "https://placeimg.com/640/480/any",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+        },
+        {
+            "id": 2,
+            "title": "Random Photo Avx2",
+            "url": "https://placeimg.com/640/480/any",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+        },
+        {
+            "id": 3,
+            "title": "Random Photo Avx3",
+            "url": "https://placeimg.com/640/480/any",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+        },
+        {
+            "id": 4,
+            "title": "Random Photo Avx4",
+            "url": "https://placeimg.com/640/480/any",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+        },
+        {
+            "id": 5,
+            "title": "Random Photo Avx5",
+            "url": "https://placeimg.com/640/480/any",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+        },
+        {
+            "id": 6,
+            "title": "Random Photo Avx6",
+            "url": "https://placeimg.com/640/480/any",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+        },
+        {
+            "id": 7,
+            "title": "Random Photo Avx7",
+            "url": "https://placeimg.com/640/480/any",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+        },
+        {
+            "id": 8,
+            "title": "Random Photo Avx8",
+            "url": "https://placeimg.com/640/480/any",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+        },
+        {
+            "id": 9,
+            "title": "Random Photo Avx9",
+            "url": "https://placeimg.com/640/480/any",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+        },
+        {
+            "id": 10,
+            "title": "Random Photo Avx10",
+            "url": "https://placeimg.com/640/480/any",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+        }
+    ],
+    "videos": [
+        {
+            "id": 1,
+            "title": "Jason Paul - Germany",
+            "poster": "https://cdn.shopify.com/s/files/1/1104/2314/files/Jason_Paul_Parkour_Freerunning_Bangkok_Thailand_Bio_Interview_Team_Farang_Clothing_2.jpg",
+            "stream": {
+                "url": "https://bitdash-a.akamaihd.net/content/MI201109210084_1/m3u8s/f08e80da-bf1d-4e3d-8899-f0f6155f6efa.m3u8",
+                "format": "hls"
+            },
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+        }
+    ]
+}
