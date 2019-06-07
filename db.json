@@ -1,0 +1,49 @@
+{
+  "posts": [
+    {
+        "id": 1,
+        "title": "hello"
+    }
+  ],
+  "photos": [
+    {
+        "id": 1,
+        "title": "hello",
+        "url": "https://placeimg.com/640/480/any",
+        "description": "Some random text"
+    },
+    {
+        "id": 2,
+        "title": "hello",
+        "url": "https://placeimg.com/640/480/any",
+        "description": "Some random text"
+    },
+    {
+        "id": 3,
+        "title": "hello",
+        "url": "https://placeimg.com/640/480/any",
+        "description": "Some random text"
+    },
+    {
+        "id": 4,
+        "title": "hello",
+        "url": "https://placeimg.com/640/480/any",
+        "description": "Some random text"
+    },
+    {
+        "id": 5,
+        "title": "hello",
+        "url": "https://placeimg.com/640/480/any",
+        "description": "Some random text"
+    },
+    {
+        "id": 6,
+        "title": "hello",
+        "url": "https://placeimg.com/640/480/any",
+        "description": "Some random text"
+    }
+  ],
+  "profile": {
+      "name": "bogdan"
+  }
+}
